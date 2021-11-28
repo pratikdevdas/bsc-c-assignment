@@ -1,1 +1,1 @@
-prog1.c
+// Observation :- Modulo or the remainder operand works with character but not with double.
